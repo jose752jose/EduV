@@ -36,7 +36,7 @@ class JsonDatabase(object):
                      'isadmin': 0,
                      'zips': 249,
                      'uploadtype':'calendar',
-                     'proxy':'socks5://KIDHKHYEJHJHGDYGJIGIGEYHIDIIRIGILGGJKG',
+                     'proxy':'',
                      'tokenize':0,
                      'rename':0,
                      'autoup':0,
